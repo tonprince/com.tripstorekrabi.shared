@@ -4,6 +4,6 @@
   "author": "Stefan Sommer",
   "type": "module",
   "dependencies": {
-    "utils": "file:../../shared/utils"
+    "shared": "file:../../shared"
   }
 }
