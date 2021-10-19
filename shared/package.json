@@ -5,7 +5,7 @@
   "exports": {
     "./utils": "./utils.js"
   },
-  "dependencies": {
+  "devDependencies": {
     "dayjs": "^1.10.7"
   },
   "type": "module"
