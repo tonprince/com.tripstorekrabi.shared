@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "author": "Stefan Sommer",
   "type": "module",
-  "devDependencies": {
+  "dependencies": {
     "shared": "file:../../shared"
   }
 }
