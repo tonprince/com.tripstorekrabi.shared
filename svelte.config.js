@@ -12,8 +12,6 @@ const config = {
 		},
 		adapter: vercel(),
 		vite: {
-			ssr: {
-			},
 			prerender: {
 				enabled: false
 			},
