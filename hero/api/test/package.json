@@ -1,9 +1,0 @@
-{
-  "name": "tripstorekrabi-apitest",
-  "version": "1.0.0",
-  "author": "Stefan Sommer",
-  "type": "module",
-  "dependencies": {
-    "shared": "file:../../../shared"
-  }
-}
