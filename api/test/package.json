@@ -4,7 +4,7 @@
   "author": "Stefan Sommer",
   "type": "module",
   "scripts": {
-    "vercel-build": "node ./_build.js"
+    "vercel-build": "npm i ../../shared"
   },
   "dependencies": {
     "shared": "file:../../shared"
