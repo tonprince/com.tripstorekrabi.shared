@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "author": "Stefan Sommer",
   "type": "module",
+  "scripts": {
+    "vercel-build": "node ./_build.js"
+  },
   "dependencies": {
     "shared": "file:../../shared"
   }
