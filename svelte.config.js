@@ -13,7 +13,6 @@ const config = {
 		adapter: vercel(),
 		vite: {
 			ssr: {
-				external: ['firebase'],
 			},
 			prerender: {
 				enabled: false
