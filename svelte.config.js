@@ -18,9 +18,6 @@ const config = {
 			prerender: {
 				enabled: false
 			},
-			server: {
-				fs: { allow: [".."] }
-			}
 		},
 	},
 };
